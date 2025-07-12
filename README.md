@@ -55,9 +55,9 @@ Navigating CTFs, real-world labs, and red team techniques.
 
 ### 🧭 Current Focus
 
-- 🔍 Red teaming & internal pentesting
+- 🔍 Red teaming & internal pentesting 
 - ⚙️ OSCP prep & exploit dev
-- 🎯 CTF grinding — HTB, THM, VulnHub
+- 🎯 CTF grinding — HTB, THM, PicoCTF
 
 ---
 
@@ -65,8 +65,8 @@ Navigating CTFs, real-world labs, and red team techniques.
 
 <p align="center">
   <a href="https://github.com/am1tt"><img src="https://img.shields.io/badge/GitHub-am1tt-181717?style=flat&logo=github" /></a>
-  <a href="https://tryhackme.com/p/am1t"><img src="https://img.shields.io/badge/TryHackMe-am1tt-red?style=flat&logo=tryhackme" /></a>
-  <a href="https://www.linkedin.com/in/sakpalamit"><img src="https://img.shields.io/badge/LinkedIn-am1tt-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://tryhackme.com/p/am1t"><img src="https://img.shields.io/badge/TryHackMe-am1t-red?style=flat&logo=tryhackme" /></a>
+  <a href="https://www.linkedin.com/in/sakpalamit"><img src="https://img.shields.io/badge/LinkedIn-sakpalamit-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:amitsakpal744@gmail.com"><img src="https://img.shields.io/badge/Email-contact-8B0000?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 

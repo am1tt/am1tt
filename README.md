@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there ! myself ⚡ am1tt</h1>
+<h1 align="center">Hey there👋 , myself Amit</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=Cybersecurity+%7C+CTFs+%7C+Pentesting;THM+%7C+HackTheBox+%7C+Upskilling+%F0%9F%94%8B;OSCP+prep+%7C+Red+Teaming+Mindset" />

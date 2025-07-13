@@ -16,7 +16,8 @@ Navigating CTFs, real-world labs, and red team techniques.
 ```
 
 - 🛠️ Focus: Web Exploitation, Privilege Escalation, AD Attacks  
-- 🧠 Platforms: TryHackMe, HackTheBox, Proving Grounds, CTFtime  
+- 🧠 Platforms: TryHackMe, HackTheBox, Proving Grounds, CTFtime
+- 📄 Constantly upskilling myself with certifications and practical performance
 - 🧑‍💻 Tools: Burp Suite, Nmap, Wireshark, Metasploit, Kali Linux  
 - 🎯 Goal: OSCP soon. Building experience through hands-on hacking.
 

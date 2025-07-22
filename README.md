@@ -11,8 +11,8 @@
 
 ```
 Offensive Security enthusiast with a love for breaking & learning.
-Now a Pentester Intern, sharpening skills daily.
 Navigating CTFs, real-world labs, and red team techniques.
+Loves to upskill constantly and learn new skills 
 ```
 
 - 🛠️ Focus: Web Exploitation, Privilege Escalation, AD Attacks  

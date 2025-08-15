@@ -58,6 +58,7 @@ Loves to upskill constantly and learn new skills
 
 - 🔍 Red teaming & internal pentesting 
 - ⚙️ OSCP prep & exploit dev
+- 🧑‍💻 Currently follow api hacking course 
 - 🎯 CTF grinding — HTB, THM, PicoCTF
 
 ---
